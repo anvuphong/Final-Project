@@ -1,0 +1,41 @@
+.asset-list{
+    margin-right: 20px;
+}
+.container{
+    height: 80px;
+}
+.create-button{
+    background-color: red;
+    border: 1ch;
+    border-radius: 6px;
+    height: 50px;
+    padding-right: 20px;
+    color: white;
+}
+
+.me-2{
+    height: 40px;
+    background: url("./images/search.png") no-repeat right;
+    background-size: 20px;
+}
+.title{
+    color:   red;
+    margin-bottom: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.cover-state{
+    background-color: aqua;
+    width: 200px;
+}
+.select-div{
+    width: 100px;
+}
+.img-logo{
+    height: 20px;
+    width: 10px;
+}
+.asset-table{
+    border: none;
+}

@@ -1,0 +1,14 @@
+.main-layout{
+    min-height: calc(100vh - 65px);
+    width: 100%;
+}
+.sidebar-with-content{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.page-content-wrapper{
+    margin-top: 90px;
+    margin-left: 130px;
+    width: 100%;
+}

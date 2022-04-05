@@ -1,0 +1,22 @@
+.edit-user{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.edit-user__title{
+    font-weight: bold;
+    color: #CF2338;
+}
+
+.edit-user__radio:checked{
+    background-color: #CF2338 !important;
+    border-color: #CF2338 !important;
+}
+
+.edit-user__icon-calendar{
+    float: right;
+    margin-right: 10px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+}

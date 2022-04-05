@@ -1,0 +1,8 @@
+.datePicker{
+    height: 38px;
+    background: url("./../img/calendar-date-schedule-icon-free-download-png-vector-592835.png") no-repeat right;
+    background-size: 40px;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 80%;
+}

@@ -1,0 +1,55 @@
+.logout-modal{
+    margin-top: 100px;
+}
+
+.logout-modal .modal-content{
+    border-radius: 10px;
+    border: 2px solid #ababab;
+    max-width: fit-content;
+    margin: auto;
+}
+
+.logout-modal__header{
+    background-color: #EFF1F5;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 2px solid #ababab !important;
+    padding: 1rem 2.5rem !important;
+}
+
+.logout-modal__header .modal-title{
+    font-size: 20px !important;
+}
+
+.logout-modal__content{
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.logout-modal__body{
+    padding: 1rem 2.5rem !important;
+}
+
+.logout-modal__icon-password{
+    float: right;
+    margin-right: 10px;
+    margin-top: -25px;
+    position: relative;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.logout-modal__icon-confirmation{
+    float: right;
+    margin-right: 10px;
+    margin-top: -25px;
+    position: relative;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.logout-modal__footer{
+    border-top: none !important;
+    padding: 0 0.75rem 0.75rem 0.75rem;
+    justify-content: center !important;
+}
